@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 
 num =int(input("ENTER THE NUMBER- ")
 
