@@ -1,4 +1,5 @@
-#making the lists
+#!/usr/bin/python3
+#creating list
 available_pizzas = ['small pizza','medium pizza','large pizza']
 available_toppings = ['pepperoni for small pizza','pepperoni for medium pizza','pepperoni for large pizza','extra cheese']
 pizza_prices = {'small pizza': 15, 'medium pizza': 20, 'large pizza': 25}
@@ -67,4 +68,4 @@ while order_pizza:
 
 #finalizing the order
 print(f"\nYOUR TOTAL ORDER PRICE IS: ${sum(sub_total)}")
-print(f"\n...THANK YOU FOR ODERED PIZZA...")
+print(f"\n...THANK YOU FOR YOUR ORDER...")
